@@ -15,7 +15,7 @@ Blinkit generates large volumes of sales data every day from various products, c
 The current challenge is to transform scattered, unstructured sales data into a clear, visually engaging dashboard that supports quick decision-making for marketing, inventory management, and business strategy
 
 ## 🛠 Tools Used
-#### a) Microsoft Excel
+#### Microsoft Excel
 Used for comprehensive data cleaning, preparation, and analysis of Blinkit sales data.
 Key Excel operations included:
 - Removing duplicates and handling missing values
@@ -46,7 +46,7 @@ Identify underperforming items and consider targeted promotions, discounts, or r
 - Strengthen Inventory Planning
 Use peak sales trends (daily/monthly) to maintain optimal inventory and avoid stockouts or overstocking.
 
-- Improve Customer Retention Strategies
+##### Improve Customer Retention Strategies
 Offer loyalty points, personalized discounts, or subscription plans to frequent customers.
 
 - Enhance Seasonal & Festival Campaigns
@@ -56,10 +56,10 @@ Since sales spikes occur during specific periods, execution of well-timed promot
 Introduce more products in categories showing consistent growth to capture higher demand.
 
 - Analyze Price Sensitivity
-Evaluate the impact of price variations on sales and adjust pricing strategies accordingly.
+##### Evaluate the impact of price variations on sales and adjust pricing strategies accordingly.
 
 - Boost Operational Efficiency
-Use insights from delivery time and order patterns to optimize delivery routes and workforce allocation.
+##### Use insights from delivery time and order patterns to optimize delivery routes and workforce allocation.
 
 ## 👨‍💻 Author
 
